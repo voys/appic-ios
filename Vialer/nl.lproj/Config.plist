@@ -34,6 +34,8 @@
 	<dict>
 		<key>API</key>
 		<string>https://api.voipgrid.nl/api</string>
+		<key>Partner</key>
+		<string>https://mijn.voys.nl</string>
 		<key>How it works</key>
 		<string>www.voys.nl/hoe-het-werkt</string>
 	</dict>
