@@ -35,7 +35,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lgi-cg-f4D" userLabel="end-call-button">
-                                <rect key="frame" x="273" y="523" width="55" height="55"/>
+                                <rect key="frame" x="273" y="525" width="55" height="55"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="lgi-cg-f4D" secondAttribute="height" multiplier="1:1" id="ibD-qU-bLh"/>
                                     <constraint firstAttribute="width" constant="55" id="uyr-v3-sta"/>
@@ -55,7 +55,7 @@
                                 </connections>
                             </containerView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="+31 (0) 50 123 45 67" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="Yr4-KP-Ajk">
-                                <rect key="frame" x="20" y="72" width="560" height="34"/>
+                                <rect key="frame" x="20" y="74" width="560" height="34"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="29"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
@@ -110,13 +110,13 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="pause" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ICv-Ww-4pb">
-                                <rect key="frame" x="346" y="145" width="47" height="21"/>
+                                <rect key="frame" x="347" y="145" width="46" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="numbers" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FF6-2l-C2y">
-                                <rect key="frame" x="245" y="145" width="68" height="21"/>
+                                <rect key="frame" x="246" y="145" width="67" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
@@ -173,8 +173,8 @@
                                     <action selector="pauseButton:" destination="N42-3i-1zp" eventType="touchDown" id="7ah-gO-59Q"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="fill" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xxT-GG-q5A" userLabel="speaker-button" customClass="SipCallingButton">
-                                <rect key="frame" x="157" y="182" width="65" height="65"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="fill" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xxT-GG-q5A" userLabel="speaker-button" customClass="SipCallingButton">
+                                <rect key="frame" x="157" y="185" width="65" height="65"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="xxT-GG-q5A" secondAttribute="height" multiplier="1:1" id="Adx-kP-PNT"/>
                                     <constraint firstAttribute="height" constant="65" id="t8c-Wr-vVN"/>

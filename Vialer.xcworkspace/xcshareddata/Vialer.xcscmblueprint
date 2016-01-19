@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2472C5DA-A191-478D-A16C-8B240F7C6ED1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA" : "vialer-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Vialer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Vialer.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/voys\/voys-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VoIPGRID\/vialer-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA"
+    }
+  ]
+}
