@@ -68,7 +68,6 @@
 		C4A452621C2462C700846591 /* RoundedAndColoredUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A452611C2462C700846591 /* RoundedAndColoredUIButton.m */; };
 		C4A452631C2462C700846591 /* RoundedAndColoredUIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A452611C2462C700846591 /* RoundedAndColoredUIButton.m */; };
 		C4A452671C24641300846591 /* RoundedAndColoredUIButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C4A452661C24641300846591 /* RoundedAndColoredUIButtonTests.m */; };
-		C4B375B41C516E7300EE4AF6 /* Vialer-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FB4226D8182261D200707349 /* Vialer-Info.plist */; };
 		C4C3EAEC1BFB73B200AA4B2A /* VialerWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4C3EAEB1BFB73B200AA4B2A /* VialerWebViewController.m */; };
 		C4C3EAF01BFB7C5E00AA4B2A /* SideMenuStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4C3EAF21BFB7C5E00AA4B2A /* SideMenuStoryboard.storyboard */; };
 		C4C3EAF71BFB7C9900AA4B2A /* AvailabilityStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4C3EAF91BFB7C9900AA4B2A /* AvailabilityStoryboard.storyboard */; };
@@ -203,18 +202,18 @@
 		C4ED66CE1C4E7A0B00E7227F /* LogInViewController.xib in Sources */ = {isa = PBXBuildFile; fileRef = 3D1A5E6A1AE62F9600DBE64B /* LogInViewController.xib */; };
 		C4ED66D01C4E7CC900E7227F /* libPods-Vialer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C4ED66CF1C4E7CC900E7227F /* libPods-Vialer.a */; };
 		C4ED66D11C4E7D3200E7227F /* libpjsip.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FEABD67E1B9739830093A877 /* libpjsip.a */; };
-		C4ED66D41C4E7F4D00E7227F /* SnapshotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B43F0D1C3BEB3F0089A387 /* SnapshotUITests.swift */; };
-		C4ED66D61C4E7FAF00E7227F /* Snapshot-Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4ED66D51C4E7FAE00E7227F /* Snapshot-Constants.swift */; };
 		C4EFCF801BF21E210000CC6F /* CallingStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4EFCF821BF21E210000CC6F /* CallingStoryboard.storyboard */; };
 		C4EFCF8C1BF2301E0000CC6F /* OldNumberPadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4EFCF8A1BF2301E0000CC6F /* OldNumberPadViewController.m */; };
 		C4F49F331BF0C06A00C25159 /* TwoStepCallTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C4F49F321BF0C06A00C25159 /* TwoStepCallTests.m */; };
 		C83D5F272B3A1BCE013030B1 /* UIView+RoundedStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = C83D5B7C2725D51F49FBE8B7 /* UIView+RoundedStyle.m */; };
 		F21077EB1B1C398D003C8109 /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F21077EA1B1C398D003C8109 /* libc++.dylib */; };
-		F21ECCE61C47C84A00E9B276 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = FB29D911189BA0FF00345976 /* Localizable.strings */; };
 		F22362641C22EE6200D6F5FF /* SettingsStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F22362661C22EE6200D6F5FF /* SettingsStoryboard.storyboard */; };
 		F25B39191B08EF43005ED515 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F25B39181B08EF43005ED515 /* MobileCoreServices.framework */; };
+		F26F65951C53A7E80012F305 /* SnapshotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26F65941C53A7E80012F305 /* SnapshotUITests.swift */; };
+		F26F65A11C53A8400012F305 /* Snapshot-Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26F659E1C53A8400012F305 /* Snapshot-Constants.swift */; };
+		F26F65A21C53A8400012F305 /* SnapshotHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F26F659F1C53A8400012F305 /* SnapshotHelper.swift */; };
+		F26F65A31C53A8F00012F305 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = FB29D911189BA0FF00345976 /* Localizable.strings */; };
 		F2A7DAC11BF4A14A0078B35D /* SystemUserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F2A7DAC01BF4A14A0078B35D /* SystemUserTests.m */; };
-		F2B43F171C3BEB880089A387 /* SnapshotHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2B43F161C3BEB880089A387 /* SnapshotHelper.swift */; };
 		F2CD45F61B330ADA00CE9B1D /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F2CD45F41B330ADA00CE9B1D /* SettingsViewController.m */; };
 		F2E811BE1B37E2E000EA640F /* SettingsViewFooterView.m in Sources */ = {isa = PBXBuildFile; fileRef = F2E811BD1B37E2E000EA640F /* SettingsViewFooterView.m */; };
 		F2E811C91B38065C00EA640F /* EditNumberTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F2E811C71B38065C00EA640F /* EditNumberTableViewController.xib */; };
@@ -304,7 +303,7 @@
 			remoteGlobalIDString = FB4226CC182261D200707349;
 			remoteInfo = Vialer;
 		};
-		C4ED66D21C4E7E4600E7227F /* PBXContainerItemProxy */ = {
+		F26F65971C53A7E80012F305 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = FB4226C5182261D200707349 /* Project object */;
 			proxyType = 1;
@@ -459,7 +458,6 @@
 		C4E860131BF14D960051BFDE /* PasteableUILabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PasteableUILabel.h; sourceTree = "<group>"; };
 		C4E860141BF14D960051BFDE /* PasteableUILabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PasteableUILabel.m; sourceTree = "<group>"; };
 		C4ED66CF1C4E7CC900E7227F /* libPods-Vialer.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-Vialer.a"; path = "Pods/../build/Debug-iphoneos/libPods-Vialer.a"; sourceTree = "<group>"; };
-		C4ED66D51C4E7FAE00E7227F /* Snapshot-Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Snapshot-Constants.swift"; sourceTree = "<group>"; };
 		C4EFCF861BF21E520000CC6F /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/CallingStoryboard.strings; sourceTree = "<group>"; };
 		C4EFCF8A1BF2301E0000CC6F /* OldNumberPadViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OldNumberPadViewController.m; sourceTree = "<group>"; };
 		C4EFCF8B1BF2301E0000CC6F /* OldNumberPadViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OldNumberPadViewController.h; sourceTree = "<group>"; };
@@ -471,14 +469,15 @@
 		C83D52DEEA84B69B3F39737D /* UIView+RoundedStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+RoundedStyle.h"; sourceTree = "<group>"; };
 		C83D5B7C2725D51F49FBE8B7 /* UIView+RoundedStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+RoundedStyle.m"; sourceTree = "<group>"; };
 		F21077EA1B1C398D003C8109 /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
-		F21ECCE71C47D94000E9B276 /* Snapshot-Constants.EXAMPLE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Snapshot-Constants.EXAMPLE"; sourceTree = "<group>"; };
 		F22362651C22EE6200D6F5FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/SettingsStoryboard.storyboard; sourceTree = "<group>"; };
 		F25B39181B08EF43005ED515 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		F26F65921C53A7E80012F305 /* SnapshotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnapshotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F26F65941C53A7E80012F305 /* SnapshotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotUITests.swift; sourceTree = "<group>"; };
+		F26F65961C53A7E80012F305 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F26F659D1C53A8400012F305 /* Snapshot-Constants.EXAMPLE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Snapshot-Constants.EXAMPLE"; sourceTree = "<group>"; };
+		F26F659E1C53A8400012F305 /* Snapshot-Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Snapshot-Constants.swift"; sourceTree = "<group>"; };
+		F26F659F1C53A8400012F305 /* SnapshotHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapshotHelper.swift; sourceTree = "<group>"; };
 		F2A7DAC01BF4A14A0078B35D /* SystemUserTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SystemUserTests.m; sourceTree = "<group>"; };
-		F2B43F0B1C3BEB3F0089A387 /* SnapshotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnapshotUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F2B43F0D1C3BEB3F0089A387 /* SnapshotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotUITests.swift; sourceTree = "<group>"; };
-		F2B43F0F1C3BEB3F0089A387 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F2B43F161C3BEB880089A387 /* SnapshotHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapshotHelper.swift; sourceTree = "<group>"; };
 		F2CD45F31B330ADA00CE9B1D /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
 		F2CD45F41B330ADA00CE9B1D /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		F2E811BC1B37E2E000EA640F /* SettingsViewFooterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewFooterView.h; sourceTree = "<group>"; };
@@ -644,7 +643,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F2B43F081C3BEB3F0089A387 /* Frameworks */ = {
+		F26F658F1C53A7E80012F305 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1069,14 +1068,14 @@
 			name = Libs;
 			sourceTree = "<group>";
 		};
-		F2B43F0C1C3BEB3F0089A387 /* SnapshotUITests */ = {
+		F26F65931C53A7E80012F305 /* SnapshotUITests */ = {
 			isa = PBXGroup;
 			children = (
-				F21ECCE71C47D94000E9B276 /* Snapshot-Constants.EXAMPLE */,
-				C4ED66D51C4E7FAE00E7227F /* Snapshot-Constants.swift */,
-				F2B43F161C3BEB880089A387 /* SnapshotHelper.swift */,
-				F2B43F0D1C3BEB3F0089A387 /* SnapshotUITests.swift */,
-				F2B43F0F1C3BEB3F0089A387 /* Info.plist */,
+				F26F659D1C53A8400012F305 /* Snapshot-Constants.EXAMPLE */,
+				F26F659E1C53A8400012F305 /* Snapshot-Constants.swift */,
+				F26F659F1C53A8400012F305 /* SnapshotHelper.swift */,
+				F26F65941C53A7E80012F305 /* SnapshotUITests.swift */,
+				F26F65961C53A7E80012F305 /* Info.plist */,
 			);
 			path = SnapshotUITests;
 			sourceTree = "<group>";
@@ -1262,7 +1261,7 @@
 				EA46C5181AC2CCA100F7FC13 /* Libs */,
 				FB4226D6182261D200707349 /* Vialer */,
 				C4F49F281BF0B45700C25159 /* VialerTests */,
-				F2B43F0C1C3BEB3F0089A387 /* SnapshotUITests */,
+				F26F65931C53A7E80012F305 /* SnapshotUITests */,
 				FB4226CF182261D200707349 /* Frameworks */,
 				FB4226CE182261D200707349 /* Products */,
 				752AD1FAE0F4299B6AF0D254 /* Pods */,
@@ -1274,8 +1273,8 @@
 			children = (
 				FB4226CD182261D200707349 /* Vialer.app */,
 				C4F49F271BF0B45700C25159 /* VialerTests.xctest */,
-				F2B43F0B1C3BEB3F0089A387 /* SnapshotUITests.xctest */,
 				C4D39D511C0DCD3A0026EFC1 /* Voys.app */,
+				F26F65921C53A7E80012F305 /* SnapshotUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1441,22 +1440,22 @@
 			productReference = C4F49F271BF0B45700C25159 /* VialerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F2B43F0A1C3BEB3F0089A387 /* SnapshotUITests */ = {
+		F26F65911C53A7E80012F305 /* SnapshotUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F2B43F151C3BEB3F0089A387 /* Build configuration list for PBXNativeTarget "SnapshotUITests" */;
+			buildConfigurationList = F26F65991C53A7E80012F305 /* Build configuration list for PBXNativeTarget "SnapshotUITests" */;
 			buildPhases = (
-				F2B43F071C3BEB3F0089A387 /* Sources */,
-				F2B43F081C3BEB3F0089A387 /* Frameworks */,
-				F2B43F091C3BEB3F0089A387 /* Resources */,
+				F26F658E1C53A7E80012F305 /* Sources */,
+				F26F658F1C53A7E80012F305 /* Frameworks */,
+				F26F65901C53A7E80012F305 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				C4ED66D31C4E7E4600E7227F /* PBXTargetDependency */,
+				F26F65981C53A7E80012F305 /* PBXTargetDependency */,
 			);
 			name = SnapshotUITests;
 			productName = SnapshotUITests;
-			productReference = F2B43F0B1C3BEB3F0089A387 /* SnapshotUITests.xctest */;
+			productReference = F26F65921C53A7E80012F305 /* SnapshotUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 		FB4226CC182261D200707349 /* Vialer */ = {
@@ -1490,7 +1489,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = VoIPGRID;
 				TargetAttributes = {
 					C4D39CC11C0DCD3A0026EFC1 = {
@@ -1500,7 +1499,7 @@
 						CreatedOnToolsVersion = 7.1;
 						TestTargetID = FB4226CC182261D200707349;
 					};
-					F2B43F0A1C3BEB3F0089A387 = {
+					F26F65911C53A7E80012F305 = {
 						CreatedOnToolsVersion = 7.2;
 						TestTargetID = C4D39CC11C0DCD3A0026EFC1;
 					};
@@ -1530,7 +1529,7 @@
 			targets = (
 				FB4226CC182261D200707349 /* Vialer */,
 				C4F49F261BF0B45700C25159 /* VialerTests */,
-				F2B43F0A1C3BEB3F0089A387 /* SnapshotUITests */,
+				F26F65911C53A7E80012F305 /* SnapshotUITests */,
 				C4D39CC11C0DCD3A0026EFC1 /* Voys */,
 			);
 		};
@@ -1541,7 +1540,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C4B375B41C516E7300EE4AF6 /* Vialer-Info.plist in Resources */,
 				C4D39D251C0DCD3A0026EFC1 /* dtmf-#.aif in Resources */,
 				C4D39D261C0DCD3A0026EFC1 /* dtmf-0.aif in Resources */,
 				C4ED66CA1C4E795100E7227F /* TwoStepCallingStoryboard.storyboard in Resources */,
@@ -1590,11 +1588,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F2B43F091C3BEB3F0089A387 /* Resources */ = {
+		F26F65901C53A7E80012F305 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F21ECCE61C47C84A00E9B276 /* Localizable.strings in Resources */,
+				F26F65A31C53A8F00012F305 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1970,13 +1968,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F2B43F071C3BEB3F0089A387 /* Sources */ = {
+		F26F658E1C53A7E80012F305 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C4ED66D61C4E7FAF00E7227F /* Snapshot-Constants.swift in Sources */,
-				C4ED66D41C4E7F4D00E7227F /* SnapshotUITests.swift in Sources */,
-				F2B43F171C3BEB880089A387 /* SnapshotHelper.swift in Sources */,
+				F26F65951C53A7E80012F305 /* SnapshotUITests.swift in Sources */,
+				F26F65A11C53A8400012F305 /* Snapshot-Constants.swift in Sources */,
+				F26F65A21C53A8400012F305 /* SnapshotHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2061,15 +2059,15 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		C4ED66D31C4E7E4600E7227F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = C4D39CC11C0DCD3A0026EFC1 /* Voys */;
-			targetProxy = C4ED66D21C4E7E4600E7227F /* PBXContainerItemProxy */;
-		};
 		C4F49F2D1BF0B45700C25159 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = FB4226CC182261D200707349 /* Vialer */;
 			targetProxy = C4E8600B1BF14C970051BFDE /* PBXContainerItemProxy */;
+		};
+		F26F65981C53A7E80012F305 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C4D39CC11C0DCD3A0026EFC1 /* Voys */;
+			targetProxy = F26F65971C53A7E80012F305 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -2492,7 +2490,7 @@
 			};
 			name = Release;
 		};
-		F2B43F121C3BEB3F0089A387 /* Debug */ = {
+		F26F659A1C53A7E80012F305 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -2512,7 +2510,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.voipgrid.vialer.SnapshotUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.voys.SnapshotUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TEST_TARGET_NAME = Voys;
@@ -2520,7 +2518,7 @@
 			};
 			name = Debug;
 		};
-		F2B43F131C3BEB3F0089A387 /* AdHocDistribution */ = {
+		F26F659B1C53A7E80012F305 /* AdHocDistribution */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -2543,14 +2541,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.voipgrid.vialer.SnapshotUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.voys.SnapshotUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Voys;
 				USES_XCTRUNNER = YES;
 			};
 			name = AdHocDistribution;
 		};
-		F2B43F141C3BEB3F0089A387 /* Release */ = {
+		F26F659C1C53A7E80012F305 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -2573,7 +2571,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = com.voipgrid.vialer.SnapshotUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.voys.SnapshotUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = Voys;
 				USES_XCTRUNNER = YES;
@@ -2748,15 +2746,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F2B43F151C3BEB3F0089A387 /* Build configuration list for PBXNativeTarget "SnapshotUITests" */ = {
+		F26F65991C53A7E80012F305 /* Build configuration list for PBXNativeTarget "SnapshotUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F2B43F121C3BEB3F0089A387 /* Debug */,
-				F2B43F131C3BEB3F0089A387 /* AdHocDistribution */,
-				F2B43F141C3BEB3F0089A387 /* Release */,
+				F26F659A1C53A7E80012F305 /* Debug */,
+				F26F659B1C53A7E80012F305 /* AdHocDistribution */,
+				F26F659C1C53A7E80012F305 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		FB4226C8182261D200707349 /* Build configuration list for PBXProject "Vialer" */ = {
 			isa = XCConfigurationList;

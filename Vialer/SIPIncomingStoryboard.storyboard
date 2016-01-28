@@ -35,7 +35,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hkp-kf-uI8" userLabel="accept-button">
-                                <rect key="frame" x="185" y="480" width="70" height="70"/>
+                                <rect key="frame" x="186" y="480" width="70" height="70"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="hkp-kf-uI8" secondAttribute="height" multiplier="1:1" id="5JO-1Q-bwq"/>
                                     <constraint firstAttribute="width" relation="lessThanOrEqual" constant="70" id="EUX-ok-A1p"/>
@@ -46,7 +46,7 @@
                                 <state key="normal" image="accept-button"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7dS-JN-qTG" userLabel="decline-button">
-                                <rect key="frame" x="345" y="480" width="70" height="70"/>
+                                <rect key="frame" x="346" y="480" width="70" height="70"/>
                                 <constraints>
                                     <constraint firstAttribute="height" relation="lessThanOrEqual" constant="70" id="1zY-5f-pIo"/>
                                     <constraint firstAttribute="width" relation="lessThanOrEqual" constant="70" id="Dl5-nR-VkI"/>

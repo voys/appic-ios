@@ -1,28 +1,37 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++0D4035D",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA" : 0
+    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++0D4035D" : 0,
+    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++04FBCFD" : 0,
+    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++521B025" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2472C5DA-A191-478D-A16C-8B240F7C6ED1",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA" : "vialer-ios\/"
+    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++0D4035D" : "voys-ios\/",
+    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++04FBCFD" : "vialer-ios\/",
+    "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++521B025" : "vialer-ios\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Vialer",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Vialer.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/voys\/voys-ios.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA"
-    },
-    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/VoIPGRID\/vialer-ios.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++04FBCFD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/voys\/voys-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++0D4035D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/voys\/voys-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "10B0F3B1DD07FE0C1959737CEE97482EC8E7E6AA+++521B025"
     }
   ]
 }
